@@ -1,79 +1,19 @@
 Project Overview
 
-This project presents an analysis of the Ultimate Gaming Survey 2025, which explores gaming behavior, preferences, and trends across different age groups and demographics.
-
-The project focuses on analyzing survey responses and presenting insights through structured visual dashboards and reports.
+This project presents a detailed analysis of the Ultimate Gaming Survey 2025. The survey explores gaming behavior, preferences, and trends across different age groups and demographics. The objective of this project is to interpret survey responses and present meaningful insights through structured visual dashboards and reports.
 
 Dataset Description
 
-The survey includes responses covering:
+The dataset contains survey responses covering age group distribution, gender distribution, device preferences, years of gaming experience, all-time favourite games, money spent on games, game purchase behavior (free vs paid), genre preferences, gaming franchise popularity, time spent gaming, single-player versus multiplayer preferences, and engagement with gaming content or esports events.
 
-Age group distribution
+Key Insights
 
-Gender distribution
+The majority of respondents fall within the 18–24 age group, accounting for 37.3% of participants. The survey consists of 60.2% male and 39.8% female respondents. Entertainment emerges as the primary benefit of gaming among participants. There is a noticeable preference for single-player games, representing 55.4% of responses. Popular franchises identified in the survey include Resident Evil, Hitman, and Uncharted. PC and PlayStation are among the most commonly used gaming devices.
 
-Device preferences
+Analysis Scope
 
-Years of gaming experience
+The analysis includes demographic segmentation, gaming behavior patterns, spending trends across age groups, device preference comparisons, the impact of gaming on daily life, methods of discovering new games, and engagement with gaming-related content and esports events.
 
-All-time favourite games
+Tools and Presentation
 
-Money spent on games
-
-Game purchase behavior (Free vs Paid)
-
-Genre preferences
-
-Gaming franchise popularity
-
-Time spent gaming
-
-Single-player vs Multiplayer preferences
-
-Gaming content / esports engagement
-
-Key Insights from the Survey
-
-Majority of respondents are aged 18–24 (37.3%)
-
-60.2% Male and 39.8% Female participants
-
-Entertainment is the primary benefit of gaming
-
-Strong preference for single-player games (55.4%)
-
-Popular franchises include Resident Evil, Hitman, and Uncharted
-
-PC and PlayStation are among the most used gaming devices
-
-(Insights referenced from survey dashboard visuals 
-
-Ultimate_Gaming_Survey_2025
-
-)
-
-Analysis Areas Covered
-
-Demographic breakdown
-
-Gaming behavior patterns
-
-Spending trends by age group
-
-Device preferences across generations
-
-Impact of gaming on daily life
-
-Game discovery sources
-
-Content consumption and esports engagement
-
-Tools Used
-
-Survey Data Collection
-
-Data Aggregation & Structuring
-
-Dashboard Visualization
-
-PDF Report Presentation
+Survey responses were collected and structured for analytical interpretation. Insights were presented using dashboard visualizations and compiled into a structured PDF report.
