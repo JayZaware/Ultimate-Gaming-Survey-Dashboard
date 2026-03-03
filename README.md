@@ -16,4 +16,4 @@ The analysis includes demographic segmentation, gaming behavior patterns, spendi
 
 Tools and Presentation
 
-Survey responses were collected and structured for analytical interpretation. Insights were presented using dashboard visualizations and compiled into a structured PDF report.
+Survey responses were collected and structured for analytical interpretation. Insights were presented using LOOKER STUDIO dashboard visualizations and compiled into a PDF
